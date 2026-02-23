@@ -2,7 +2,7 @@
 
 🌟 Descripción del Proyecto:
 
-Telecom X enfrenta una alta tasa de cancelaciones y necesita comprender por qué sus clientes se van.
+Telecom X enfrenta una alta tasa de cancelaciones y necesita comprender por qué sus clientes se van.  
 Este proyecto analiza los datos de clientes para identificar patrones de evasión y generar insights estratégicos que permitan mejorar la retención.
 
 🎯 Objetivos:
